@@ -13,6 +13,10 @@ conda activate forgenet
 pip install torch torchvision numpy pillow opencv-python scipy scikit-image scikit-learn tensorboardX tqdm ftfy regex
 ```
 
+## Model Weights
+
+Pretrained model weights are available on [Google Drive](https://drive.google.com/drive/folders/15r3zb8bBaYwiSUvy_uRyXL1OpiqFeADA?usp=sharing).
+
 ## Dataset
 
 Organize the training data as follows:
