@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+checkpoints/
+logs/
+experiments/
+docs/
+configs/
+results/
+reproduction_results/
+*.pth
+*.pt
+.DS_Store
+release_weights/

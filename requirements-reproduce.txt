@@ -1,0 +1,14 @@
+# Verified environment. Install the CUDA 11.8 PyTorch wheels first; see README.
+torch==2.7.1+cu118
+torchvision==0.22.1+cu118
+numpy==1.23.5
+Pillow==11.1.0
+opencv-python-headless==4.11.0.86
+scipy==1.13.1
+scikit-image==0.24.0
+scikit-learn==1.6.1
+tensorboardX==2.6.2.2
+tqdm==4.67.1
+ftfy==6.3.1
+regex==2024.11.6
+albumentations==1.1.0

@@ -1,0 +1,13 @@
+torch>=2.1
+torchvision>=0.16
+numpy<2
+Pillow
+opencv-python-headless==4.11.0.86
+scipy
+scikit-image
+scikit-learn
+tensorboardX
+tqdm
+ftfy
+regex
+albumentations==1.1.0
